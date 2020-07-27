@@ -1,0 +1,421 @@
+{
+    "items": [ 
+        {
+            "id": 0,
+            "name": "Vestido Feo",
+            "price": 15,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 1,
+            "name": "Camiseta Fea",
+            "price": 10,
+            "relevance": 2,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Camiseta Fea"
+        },
+        {
+            "id": 2,
+            "name": "Falda Fea",
+            "price": 5,
+            "relevance": 3,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Falda Fea"
+        },
+        {
+            "id": 3,
+            "name": "Sandalias Feas",
+            "price": 1,
+            "relevance": 5,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Sandalias Feas"
+        },
+        {
+            "id": 4,
+            "name": "Tacones Feos",
+            "price": 93,
+            "relevance": 4,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Tacones Feos"
+        },
+        {
+            "id": 5,
+            "name": "Blusa Fea",
+            "price": 3,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Blusa Fea"
+        },
+        {
+            "id": 6,
+            "name": "Sombrero Feo",
+            "price": 60,
+            "relevance": 3.5,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Sombrero"
+        },
+        {
+            "id": 7,
+            "name": "Cardigan Feo",
+            "price": 6,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Cardigan Feo"
+        },
+        {
+            "id": 8,
+            "name": "Vestido de gala feo",
+            "price": 10000000,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 9,
+            "name": "Gafas de sol feas",
+            "price": 15,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 10,
+            "name": "Colgante Feo",
+            "price": 15,
+            "relevance": 4,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 11,
+            "name": "Bikini Feo",
+            "price": 15,
+            "relevance": 5,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 12,
+            "name": "Bragas Feas",
+            "price": 15,
+            "relevance": 3,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 13,
+            "name": "Vestido Feo",
+            "price": 15,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 14,
+            "name": "Camiseta Fea",
+            "price": 10,
+            "relevance": 2,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Camiseta Fea"
+        },
+        {
+            "id": 15,
+            "name": "Falda Fea",
+            "price": 5,
+            "relevance": 3,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Falda Fea"
+        },
+        {
+            "id": 16,
+            "name": "Sandalias Feas",
+            "price": 1,
+            "relevance": 5,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Sandalias Feas"
+        },
+        {
+            "id": 17,
+            "name": "Tacones Feos",
+            "price": 93,
+            "relevance": 4,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Tacones Feos"
+        },
+        {
+            "id": 18,
+            "name": "Blusa Fea",
+            "price": 3,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Blusa Fea"
+        },
+        {
+            "id": 19,
+            "name": "Sombrero Feo",
+            "price": 60,
+            "relevance": 3.5,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Sombrero Feo"
+        },
+        {
+            "id": 20,
+            "name": "Cardigan Feo",
+            "price": 6,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Cardigan Feo"
+        },
+        {
+            "id": 21,
+            "name": "Vestido de gala feo",
+            "price": 1000000,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 22,
+            "name": "Gafas de sol feas",
+            "price": 15,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 23,
+            "name": "Colgante Feo",
+            "price": 15,
+            "relevance": 4,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 24,
+            "name": "Bikini Feo",
+            "price": 15,
+            "relevance": 5,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 25,
+            "name": "Bragas Feas",
+            "price": 15,
+            "relevance": 3,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 26,
+            "name": "Vestido Feo",
+            "price": 15,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 27,
+            "name": "Camiseta Fea",
+            "price": 15,
+            "relevance": 2,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Camiseta Fea"
+        },
+        {
+            "id": 28,
+            "name": "Falda Fea",
+            "price": 5,
+            "relevance": 3,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Falda Fea"
+        },
+        {
+            "id": 29,
+            "name": "Sandalias Feas",
+            "price": 1,
+            "relevance": 5,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Sandalias Feas"
+        },
+        {
+            "id": 30,
+            "name": "Tacones Feos",
+            "price": 93,
+            "relevance": 4,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Tacones Feos"
+        },
+        {
+            "id": 31,
+            "name": "Blusa Fea",
+            "price": 3,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Blusa Fea"
+        },
+        {
+            "id": 32,
+            "name": "Sombrero Feo",
+            "price": 60,
+            "relevance": 3.5,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Sombrero Feo"
+        },
+        {
+            "id": 33,
+            "name": "Cardigan Feo",
+            "price": 6,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Cardigan Feo"
+        },
+        {
+            "id": 34,
+            "name": "Vestido de gala feo",
+            "price": 1000000,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 35,
+            "name": "Gafas de sol feas",
+            "price": 15,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 36,
+            "name": "Colgante Feo",
+            "price": 15,
+            "relevance": 4,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 37,
+            "name": "Bikini Feo",
+            "price": 15,
+            "relevance": 5,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 38,
+            "name": "Bragas Feas",
+            "price": 15,
+            "relevance": 3,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 39,
+            "name": "Vestido Feo",
+            "price": 15,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 40,
+            "name": "Camiseta Fea",
+            "price": 15,
+            "relevance": 2,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Camiseta Fea"
+        },
+        {
+            "id": 41,
+            "name": "Falda Fea",
+            "price": 5,
+            "relevance": 3,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Falda Fea"
+        },
+        {
+            "id": 42,
+            "name": "Sandalias Feas",
+            "price": 1,
+            "relevance": 5,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Sandalias Feas"
+        },
+        {
+            "id": 43,
+            "name": "Tacones Feos",
+            "price": 93,
+            "relevance": 4,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Tacones Feos"
+        },
+        {
+            "id": 44,
+            "name": "Blusa Fea",
+            "price": 3,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Blusa Fea"
+        },
+        {
+            "id": 45,
+            "name": "Sombrero Feo",
+            "price": 60,
+            "relevance": 3.5,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Sombrero Feo"
+        },
+        {
+            "id": 46,
+            "name": "Cardigan Feo",
+            "price": 6,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Cardigan Feo"
+        },
+        {
+            "id": 47,
+            "name": "Vestido de gala feo",
+            "price": 1000000,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 48,
+            "name": "Gafas de sol feas",
+            "price": 15,
+            "relevance": 1,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 49,
+            "name": "Colgante Feo",
+            "price": 15,
+            "relevance": 4,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 50,
+            "name": "Bikini Feo",
+            "price": 15,
+            "relevance": 5,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        },
+        {
+            "id": 51,
+            "name": "Bragas Feas",
+            "price": 15,
+            "relevance": 3,
+            "img": "images/ugly-dress.jpeg",
+            "alt": "Vestido Feo"
+        }
+    
+    ]
+}

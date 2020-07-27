@@ -1,0 +1,31 @@
+.item-list {
+    display: flex;
+    flex-direction: column;
+    margin: 75px;
+    
+    
+}
+.Controller{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    justify-content: space-evenly;
+    margin: 75px;
+    background-color: azure;
+    color:  #333333;
+}
+
+.button {
+        background-color: #333;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        width: 20%;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        align-self: center;
+        margin-bottom: 25px;
+    
+}

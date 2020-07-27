@@ -1,0 +1,9 @@
+.item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 75px;
+}
+.item-price {
+    margin-left: 25px;
+}
