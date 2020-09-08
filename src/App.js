@@ -1,27 +1,55 @@
 import React, {Component} from 'react';
-import logo from './logo.svg';
 import './App.css';
 import ItemList from './components/ItemList/ItemList';
 import Header from './components/Header/Header'
-import Controller from './components/Controller/Controller'
-
+import Detail from './components/Detail/Detail'
+import { UserProvider } from './context/context'
 
 class App extends Component{
+
   constructor(){
     super()
     this.state = {
-      step: 0
+      mode: 0,
+      idn: undefined,
+      clicked: false
+
     }
   }
+  setMode() {
+    this.setState({
+      mode: 1
+    })
+  }
+  
+  componentDidMount() {
+
+    console.log(this.context)
+  }
+  getId(id) {
+    console.log(id)
+    this.setState({
+      ...this.state,
+      idn: id
+    })
+  }
+
+
+
 
   render() {
     return(
+      <UserProvider value= {{
+        state: this.state,
+        getId: this.getId.bind(this)
+      }}>
+        {console.log(this.state.idn)}
       <div>
       <Header></Header>
-      {/* <Controller></Controller> */}
-      <ItemList></ItemList>
+      {this.state.idn === undefined ? <ItemList></ItemList> : <Detail idn={this.state.idn}></Detail>}
 
       </div>
+      </UserProvider>
     )
   }
 
@@ -32,25 +60,3 @@ export default App
 
 
 
-// function App() {
-//   return (
-//     <div className="App">
-//       <header className="App-header">
-//         <img src={logo} className="App-logo" alt="logo" />
-//         <p>
-//           Edit <code>src/App.js</code> and save to reload.
-//         </p>
-//         <a
-//           className="App-link"
-//           href="https://reactjs.org"
-//           target="_blank"
-//           rel="noopener noreferrer"
-//         >
-//           Learn React
-//         </a>
-//       </header>
-//     </div>
-//   );
-// }
-
-// export default App;
